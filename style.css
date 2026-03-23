@@ -1,0 +1,17 @@
+img{
+    width:150px;
+    height:150px
+}
+body{
+    background-color: rgb(215, 225, 225);
+}
+.pages{
+    gap: space-between;
+}
+table,th,td{
+    border: 1px solid green;
+    border-collapse: collapse;
+}
+th{
+    color:blue;
+}
